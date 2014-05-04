@@ -2,7 +2,8 @@ Kirmah
 ======
 
 {{{----Necrose99---With My Curriousity over Crypto Systems---I figgured it worth a look so I cloned it to Github---}}}
-
+{{{----SF is good but makes it hard to tinker with stuff or contribute back or like. --}}}
+{{{----Add in known  Crypto  IE PKI and Py-Bcrpt for streaching keys and protecting the symetric key from party A to Party B it shows promis.  --}}}
 
 Encryption with symmetric-key algorithm Kirmah
 http://sourceforge.net/projects/kirmah/?source=directory
